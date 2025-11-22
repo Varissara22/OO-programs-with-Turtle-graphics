@@ -1,6 +1,7 @@
 # Turtle Polygon Art Generator
 
 This project uses Python's `turtle` graphics module and object-oriented programming (OOP) to generate artistic polygon patterns.  
+
 The user selects from 9 different art styles, and the program randomly generates colorful triangles, squares, or pentagons with optional recursive shrinking effects.
 
 ---
