@@ -65,6 +65,6 @@ If shrinking is triggered:
 
 ##  How to Use
 
-To run the demonstration script, execute `data_processing.py` from your terminal:
+To run the demonstration script, execute `oop_polygon_art.py` from your terminal:
 
 ```bash
